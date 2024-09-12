@@ -22,6 +22,6 @@ In-depth analysis for Maharashtra, including total seats, candidates, parties, a
 
 ### This project showcases my skills in SQL and data analysis, demonstrating my ability to transform raw election data into valuable insights. 
 
-## Feel free to connect for discussions on SQL queries or data analysis techniques!
+### Feel free to connect for discussions on SQL queries or data analysis techniques!
 
-#SQL #DataAnalysis #ElectionResults #IndiaElections2024 #DataScience #Analytics 
+### SQL #DataAnalysis #ElectionResults #IndiaElections2024 #DataScience #Analytics 
